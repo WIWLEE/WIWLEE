@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##TimeLine
+## Postech
+- GTLove (busking)
+- POSCAT (algorithm & AI)
+- POAPPER (delveopler)
+- 
+
+## TimeLine
 - 2021 Winter New Semester Preparation Committee
 - 2022 Summer Seoul National University credit exchange
 - 2022 Winter Samsung Electronics Internship
