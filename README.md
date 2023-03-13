@@ -1,4 +1,6 @@
-### Hi there 👋
+이지현
+====
+
 
 <!--
 **WIWLEE/WIWLEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##TimeLine
+- 2021 Winter New Semester Preparation Committee
+- 2022 Summer Seoul National University credit exchange
+- 2022 Winter Samsung Electronics Internship
+- 2022 Winter Gpos-NDM Game Competition
+
