@@ -1,7 +1,10 @@
 이지현
 ====
 
-POSTECH Computer Science & Engineering || Electronic Engineering
+WIWLEE
+[![POSTECH](https://cse.postech.ac.kr)]
+Computer Science & Engineering || Electronic Engineering
+
 
 ## Postech Club
 - PBS (broadcasting Studio || 2021.03~2022.12)
