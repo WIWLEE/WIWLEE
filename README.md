@@ -1,7 +1,5 @@
-이지현
-====
-
 WIWLEE
+====
 
 Computer Science & Engineering || Electronic Engineering
 
@@ -17,5 +15,4 @@ Computer Science & Engineering || Electronic Engineering
 - 2022 Summer Seoul National University credit exchange
 - 2022 Winter Samsung Electronics Internship
 - 2022 Winter Gpos-NDM Game Competition
-- 2023 Summer Postech-Kaist AI Competition
 - 2023 Summer UGRP Research program
