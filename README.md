@@ -1,7 +1,8 @@
 WIWLEE
 ====
 
-Computer Science & Engineering || Electronic Engineering
+Computer Science & Engineering
+Electronic Engineering
 
 
 ## Postech Club
