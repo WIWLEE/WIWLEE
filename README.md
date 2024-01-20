@@ -1,6 +1,6 @@
 WIWLEE
 ====
-POSTECH (浦項工科大學校, Pohang University of Science and Technology)
+POSTECH (浦項工科大學校, Pohang University of Science and Technology )
 Computer Science & Electronic Engineering
 
 
