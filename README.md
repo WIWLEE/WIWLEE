@@ -1,9 +1,7 @@
 WIWLEE
 ====
-
-Computer Science & Engineering
-
-Electronic Engineering
+POSTECH (浦項工科大學校, Pohang University of Science and Technology)
+Computer Science & Electronic Engineering
 
 
 ## Postech Club
@@ -18,3 +16,4 @@ Electronic Engineering
 - 2022 Winter Samsung Electronics Internship
 - 2022 Winter Gpos-NDM Game Competition
 - 2023 Summer UGRP Research program
+- 2023 Winter Attending Consumer Electronics Show
