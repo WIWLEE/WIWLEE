@@ -1,9 +1,7 @@
 WIWLEE
 ====
-POSTECH (浦項工科大學校, Pohang University of Science and Technology)
-
-Computer Science & Electronic Engineering
-
+Undergraduate majoring in Computer Science & Electronic Engineering
+in POSTECH (浦項工科大學校, Pohang University of Science and Technology)
 
 ## Postech Club
 - PBS (broadcasting Studio || 2021.03~2022.12)
