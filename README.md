@@ -17,3 +17,5 @@ in POSTECH (浦項工科大學校, Pohang University of Science and Technology)
 - 2022 Winter Gpos-NDM Game Competition
 - 2023 Summer UGRP Research program
 - 2023 Winter Attending Consumer Electronics Show
+- 2024 Summer SK Hynix Internship
+- 2024-2 Exchange Student in U of Missouri (US)
