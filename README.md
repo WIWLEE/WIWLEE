@@ -6,9 +6,9 @@ in POSTECH (浦項工科大學校, Pohang University of Science and Technology)
 
 ## Postech Club
 - PBS (broadcasting Studio || 2021.03~2022.12)
-- POSCAT (algorithm & AI || 2023.03~)
-- POAPPER (developler || 2021.12~)
-- GTLove (busking || 2021.03 ~ 2021.12)
+- POSCAT (algorithm & AI || 2023.03~07)
+- POAPPER (developler || 2021.12~2022.03)
+- GTLove (busking || 2021.03 ~ 2021.12, 2025.09~2025.12)
 
 ## TimeLine
 - 2021 Winter New Semester Preparation Committee
@@ -19,3 +19,5 @@ in POSTECH (浦項工科大學校, Pohang University of Science and Technology)
 - 2023 Winter Attending Consumer Electronics Show
 - 2024 Summer SK Hynix Internship
 - 2024-2 Exchange Student in U of Missouri (US)
+- 2025 Winter ETRI(Electronics and Telecommunications Research Institute) Internship
+- 2025-1 POSTECH Language&Intelligence Lab Research Intern
