@@ -4,12 +4,6 @@ Undergraduate majoring in Computer Science & Electronic Engineering
 
 in POSTECH (浦項工科大學校, Pohang University of Science and Technology)
 
-## Postech Club
-- PBS (broadcasting Studio || 2021.03~2022.12)
-- POSCAT (algorithm & AI || 2023.03~07)
-- POAPPER (developler || 2021.12~2022.03)
-- GTLove (busking || 2021.03 ~ 2021.12, 2025.09~2025.12)
-
 ## TimeLine
 - 2021 Winter New Semester Preparation Committee
 - 2022 Summer Seoul National University credit exchange
