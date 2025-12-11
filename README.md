@@ -1,8 +1,6 @@
 WIWLEE
 ====
-Undergraduate majoring in Computer Science & Electronic Engineering
-
-in POSTECH (浦項工科大學校, Pohang University of Science and Technology)
+Undergraduate majoring in Computer Science & Electronic Engineering in POSTECH
 
 ## TimeLine
 - 2021 Winter New Semester Preparation Committee
