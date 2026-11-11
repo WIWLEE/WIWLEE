@@ -1,15 +1,12 @@
 WIWLEE
 ====
-Undergraduate majoring in Computer Science & Electronic Engineering in POSTECH
-
 ## TimeLine
-- 2021 Winter New Semester Preparation Committee
-- 2022 Summer Seoul National University credit exchange
 - 2022 Winter Samsung Electronics Internship
 - 2022 Winter Gpos-NDM Game Competition
 - 2023 Summer UGRP Research program
-- 2023 Winter Attending Consumer Electronics Show
+- 2023 Winter Attending Consumer Electronics Show (CES)
 - 2024 Summer SK Hynix Internship
 - 2024-2 Exchange Student in U of Missouri (US)
 - 2025 Winter ETRI(Electronics and Telecommunications Research Institute) Internship
-- 2025-1 POSTECH Language&Intelligence Lab Research Intern
+- 2025-1 POSTECH Language&Intelligence Lab Research Internship
+- 2026 ~ AI Engineer in Samsung Research 
